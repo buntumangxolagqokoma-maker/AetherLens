@@ -8,7 +8,7 @@ using UnityEngine;
 using UnityEngine.Rendering;
 using UnityEngine.Video;
 
-public class AetherLensOptimizedStreamer : MonoBehaviour
+public class AetherLensCore : MonoBehaviour
 {
     [Header("References")]
     public VideoPlayer videoPlayer;
